@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "IPManager1": {
+    "IPManager": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
